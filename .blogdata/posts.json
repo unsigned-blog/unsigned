@@ -1,10 +1,38 @@
 [
   {
+    "Title": "Fuck Gender Inclusive Pronouns",
+    "IsPublished": true,
+    "PublishedOn": "2021-01-24T05:33:20.58062+00:00",
+    "Slug": "fuck-gender-inclusive-pronouns",
+    "Tags": [
+      "equality",
+      "gender"
+    ],
+    "IsPage": false
+  },
+  {
+    "Title": "Universities Are Trash",
+    "IsPublished": true,
+    "PublishedOn": "2021-01-24T05:29:35.6755505+00:00",
+    "Slug": "universities-are-trash",
+    "Tags": [
+      "higher education",
+      "university",
+      "college",
+      "equality",
+      "gender"
+    ],
+    "IsPage": false
+  },
+  {
     "Title": "Sean Connery is the Fucking MAN!",
     "IsPublished": true,
     "PublishedOn": "2021-01-09T01:08:14.6611313+00:00",
     "Slug": "sean-connery-is-the-fucking-man",
-    "Tags": ["equality", "gender"],
+    "Tags": [
+      "equality",
+      "gender"
+    ],
     "IsPage": false
   },
   {
